@@ -20,6 +20,8 @@
       , "mocha"               : ">=1.8.2"
       , "coffee-script-redux" : "2.0.0-beta8"
       , "commonjs-everywhere" : "~0.6.1"
+      , "browserify"          : "^14.5.0"
+      , "uglify-js"           : "^3.2.0"
     }
 
   , "repository":
